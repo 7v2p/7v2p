@@ -6,6 +6,7 @@ class Angel(ReadMe):
     def __init__(self):
         self.username = "7v2p"
         self.contacts = {
+            "Steam": "1166770024",
             "Discord": "942548828073115708",
             "Instagram": "7v2p"
         }
@@ -18,3 +19,4 @@ class Angel(ReadMe):
         self.age = "19"
         self.occupation = "Cyber Security Expert"
         self.operating_system = "Ubuntu, Windows 11"
+        
