@@ -8,7 +8,9 @@ class Angel(ReadMe):
         self.contacts = {
             "Steam": "1166770024",
             "Discord": "964568398149337129",
-            "Instagram": "7v2p"
+            "Discord2": "978977953964781619",
+            "Instagram": "7v2p",
+            "Instagram2": "IDA64.exe"
         }
         self.alises = [
             "L0nely4ngel",
@@ -18,6 +20,6 @@ class Angel(ReadMe):
         ]
         self.location = "Bahrain"
         self.age = "19"
-        self.occupation = "Cyber Security Expert"
-        self.operating_system = "Ubuntu, Windows 11"
+        self.occupation = "Security Researcher"
+        self.operating_system = "Ubuntu, Windows 11 ,Pop OS! ,Arch"
         
