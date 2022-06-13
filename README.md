@@ -21,5 +21,5 @@ class Angel(ReadMe):
         self.location = "Bahrain"
         self.age = "19"
         self.occupation = "Security Researcher"
-        self.operating_system = "Ubuntu, Windows 11 ,Pop OS! ,Arch"
+        self.operating_system = "Windows 11 ,Kali , CentOS"
         
