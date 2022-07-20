@@ -28,3 +28,10 @@ class Angel(ReadMe):
   </a>
   <br></br>
   </details>
+<details>
+  <summary><b>TryHackMe</b></summary>
+  <a href="https://tryhackme.com/p/IDA64">
+<img src="https://tryhackme-badges.s3.amazonaws.com/IDA64.png" alt="TryHackMe">
+  </a>
+  <br></br>
+  </details>
