@@ -1,26 +1,22 @@
-```py
-from GitHub import ReadMe
 
-class Angel(ReadMe):
-    "/7v2p/README.md"
-    def __init__(self):
-        self.username = "7v2p"
-        self.contacts = {
-            "Steam": "1166770024",
-            "Discord": "994299370860195860",
-            "Instagram": "7v2p",
-            "Instagram2": "IDA64.exe"
-        }
-        self.alises = [
-            "L0nely4ngel",
-            "Tokyoo",
-            "IDA"
-        ]
-        self.location = "Bahrain"
-        self.age = "19"
-        self.occupation = "Security Researcher"
-        self.operating_system = "Windows 11 ,Kali , Debian"
+```python
+print(f'Follow {IDA} on Github')
 ```
+```python
+       OS  :  Win11
+   Python  :  python 3.10.4
+Languages  :  Python, Js, Batch, Bash, C++/C, C#
+  Discord  :  994299370860195860
+   Steam   :  76561199127035752
+```
+```js
+Dirty Skid Developer.
+```
+<p align="center">
+<img src="https://lanyard-profile-readme.vercel.app/api/994299370860195860?hideTimestamp=true&hideBadges=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=7v2p&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
+</p>
+
 <details>
   <summary><b>HackTheBox</b></summary>
   <a href="https://app.hackthebox.com/profile/617926">
