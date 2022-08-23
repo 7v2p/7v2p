@@ -1,4 +1,3 @@
-
 ```python
 print(f'Follow {IDA} on Github')
 ```
@@ -12,10 +11,12 @@ Languages  :  Python, Js, Batch, Bash, C++/C, C#
 ```js
 Dirty Skid Developer.
 ```
-<p align="center">
+<details>
+  <summary><b>Discord</b></summary>
 <img src="https://lanyard-profile-readme.vercel.app/api/994299370860195860?hideTimestamp=true&hideBadges=true"/>
-<img src="https://github-readme-stats.vercel.app/api?username=7v2p&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
-</p>
+  </a>
+  <br></br>
+  </details>
 
 <details>
   <summary><b>HackTheBox</b></summary>
